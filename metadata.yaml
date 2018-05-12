@@ -1,0 +1,29 @@
+_repo: A-Treatise-on-Staff-Making-and-Pivoting--13-Containing-Complete-Directions-for-Making-and-Fit__20317
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hall, Eugene Edward
+    gutenberg_agent_id: '9231'
+    url: http://www.gutenberg.org/2009/agents/9231
+description: ''
+gutenberg_bookshelf:
+- Manufacturing
+- Technology
+gutenberg_issued: '2007-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20317'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Clocks and watches -- Repairing'
+- !lcc 'TS'
+- !lcsh 'Clock and watch making'
+title: "A Treatise on Staff Making and Pivoting\r\nContaining Complete Directions\
+  \ for Making and Fitting New Staffs from the Raw Material"
+url: http://www.gutenberg.org/ebooks/20317
