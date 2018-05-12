@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '9231'
     url: http://www.gutenberg.org/2009/agents/9231
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20317#A-Treatise-on-Staff-Making-and-Pivoting--13-Containing-Complete-Directions-for-Making-and-Fit_
 gutenberg_bookshelf:
 - Manufacturing
 - Technology
